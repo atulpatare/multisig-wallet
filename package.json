@@ -1,9 +1,10 @@
 {
   "name": "multisig",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple multisig wallet with solidity",
   "main": "index.js",
   "scripts": {
+    "compile": "hardhat compile",
     "test": "hardhat test"
   },
   "keywords": [],
